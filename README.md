@@ -1,4 +1,5 @@
 # Fault Detection and Diagnosis in Manufacturing
+# Submitted By: Nandhini K, Devishri N,Shiyamala G, Usharani S,Lavanya P College Name:Chenduran college of engineering and Technology.
 
 This project implements a real-time fault detection and diagnosis system for manufacturing processes using data science and machine learning. It monitors sensor data from production machines to identify anomalies, analyze root causes, and suggest corrective actions.
 
